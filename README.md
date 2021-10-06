@@ -11,10 +11,9 @@ degit turtle/app
 yarn install # or npm
 ```
 
-```
 
 ## Developpement
-
+```
 run dev.bat
 ```
 
