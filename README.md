@@ -10,8 +10,6 @@ degit turtle/app
 ```
 yarn install # or npm
 cd electron
-yarn install
-cd ..
 ```
 
 ```
