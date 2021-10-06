@@ -9,7 +9,6 @@ A starter kit to build cross-platform desktop apps.
 degit turtle/app
 ```
 yarn install # or npm
-cd electron
 ```
 
 ```
